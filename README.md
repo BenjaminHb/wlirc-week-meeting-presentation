@@ -12,8 +12,12 @@ date-name-title.ppt
 date-name-title.pdf
 ```
 
-- 推荐上传pdf格式，体积较小且可在线预览；如果ppt过大（>5MB），尽量输出为pdf后上传。
-- 年/半终总结以及其他专题性质的presentation，尽量收集汇总后上传压缩包
+- 推荐上传pdf格式，体积较小且可在线预览；如果ppt过大（>10MB），尽量输出为pdf上传，源文件可采用外链形式附在readme文件中。
+- 若ppt动画效果过多，在导出pdf之前需要将动画分解防止图层覆盖。
+- 年/半终总结以及其他专题性质的presentation，尽量收集汇总后上传压缩包。
+- 本项目暂未收录本科生毕业设计/答辩材料
+
+
 
 ## 下载方法
 
@@ -45,3 +49,11 @@ date-name-title.pdf
 
 
 
+
+
+## 大型ppt/pptx下载链接
+
+- [倪钢-OpenCV简介](http://okqi2ipwh.bkt.clouddn.com/20180118-%E5%80%AA%E9%92%A2-OpenCV%E7%AE%80%E4%BB%8B.pptx)
+- [赵知非-使用Ionic框架开发Hybrid App](http://okqi2ipwh.bkt.clouddn.com/20171103-%E8%B5%B5%E7%9F%A5%E9%9D%9E-%E4%BD%BF%E7%94%A8Ionic%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91Hybrid%20App.pptx)
+- [无名-CCL2016_CNCC2016](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
+- [韩玮光-Human-level control through deep reinforcement learning](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
