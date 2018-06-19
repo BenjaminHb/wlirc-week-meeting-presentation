@@ -1,7 +1,6 @@
 
 
 
-
 ## 注意事项：
 
 - 命名格式
@@ -53,7 +52,7 @@ date-name-title.pdf
 
 ## 大型ppt/pptx下载链接
 
-- [倪钢-OpenCV简介](http://okqi2ipwh.bkt.clouddn.com/20180118-%E5%80%AA%E9%92%A2-OpenCV%E7%AE%80%E4%BB%8B.pptx)
-- [赵知非-使用Ionic框架开发Hybrid App](http://okqi2ipwh.bkt.clouddn.com/20171103-%E8%B5%B5%E7%9F%A5%E9%9D%9E-%E4%BD%BF%E7%94%A8Ionic%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91Hybrid%20App.pptx)
-- [无名-CCL2016_CNCC2016](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
-- [韩玮光-Human-level control through deep reinforcement learning](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
+- [倪钢-OpenCV简介 190MB](http://okqi2ipwh.bkt.clouddn.com/20180118-%E5%80%AA%E9%92%A2-OpenCV%E7%AE%80%E4%BB%8B.pptx)
+- [赵知非-使用Ionic框架开发Hybrid App 25MB](http://okqi2ipwh.bkt.clouddn.com/20171103-%E8%B5%B5%E7%9F%A5%E9%9D%9E-%E4%BD%BF%E7%94%A8Ionic%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91Hybrid%20App.pptx)
+- [无名-CCL2016_CNCC2016 17MB](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
+- [韩玮光-Human-level control through deep reinforcement learning 21MB](http://okqi2ipwh.bkt.clouddn.com/20161028-%E6%97%A0%E5%90%8D-CCL2016_CNCC2016.ppt)
