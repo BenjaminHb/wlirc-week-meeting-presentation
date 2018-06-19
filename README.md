@@ -1,6 +1,5 @@
 
 
-
 ## 注意事项：
 
 - 命名格式
@@ -25,7 +24,7 @@ date-name-title.pdf
 ```sh
     git clone http://git.pmnlplab.top/wlirc/week-meeting-presentation.git
 ```
-也可以点击下载按钮直接下载压缩包。
+也可以点击下载按钮直接下载压缩包，在彭老师内部群也有源文件打包。
 
 
 
