@@ -38,8 +38,8 @@ date-name-title.pdf
 - git console 方式：
 
 ```sh
-    git add xxx.doc xxx.ppt
-    git commit -m "上传xxx课程文件"
+    git add xxx.pdf xxx.ppt
+    git commit -m "上传xxx周例会ppt"
     git push -u origin new-file-push # 嫌麻烦就直接master
 ```
 
