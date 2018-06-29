@@ -1,4 +1,3 @@
-
 ## 注意事项：
 
 - 命名格式
@@ -7,6 +6,12 @@
 date-name-title.pptx
 date-name-title.ppt
 date-name-title.pdf
+
+eg.
+ 20180316-胡伟龙-结合语句级别Attention和模式过滤的远程监督实体关系抽取.pdf
+ 20180427-黄婷-Knowledge Graph Embedding via Adaptive Sparse Dynamic Mapping Matrix.pdf
+ 
+ ! 若文件名过长需要自行缩减题目
 ```
 
 - 推荐上传pdf格式，体积较小且可在线预览；如果ppt过大（>10MB），尽量输出为pdf上传，源文件可采用外链形式附在readme文件中
